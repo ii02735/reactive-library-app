@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@300;400;500&display=swap');
+
+body {
+    background-color: rgb(11, 32, 63);
+    font-family: 'Georama', sans-serif;
+    color: white
+}
